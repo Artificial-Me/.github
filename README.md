@@ -1,2 +1,0 @@
-# .github
-Your digital twin
