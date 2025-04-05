@@ -1,2 +1,3 @@
-# .github
-Your digital twin
+# Artificial Me Intelligence
+
+*comming soon*
