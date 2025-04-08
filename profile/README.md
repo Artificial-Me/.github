@@ -1,3 +1,3 @@
-![BillboardAI Image](profile/ArtificialMe-neon.jpeg)
+![BillboardAI Image](ArtificialMe-neon.jpeg)
 
 *comming soon*
