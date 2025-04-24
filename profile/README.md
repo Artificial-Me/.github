@@ -1,1 +1,1 @@
-![BillboardAI Image](ArtificialMe-neon.jpeg)
+![BillboardAI Image](artificial-me-lightcone.jpeg)
